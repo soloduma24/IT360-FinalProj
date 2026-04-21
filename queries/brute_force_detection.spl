@@ -1,0 +1,5 @@
+index=ftp_logs "LOGIN FAILED"
+| rex "ip=(?<ip>\S+)"
+| stats count by ip
+| where count >= 5
+| sort - count
