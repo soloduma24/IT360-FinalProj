@@ -43,3 +43,25 @@ The goal is to simulate a real-world cybersecurity monitoring system.
 ---
 
 ## Repository Structure
+docs/ → project documentation
+screenshots/ → proof of work
+logs/ → sample FTP logs
+queries/ → Splunk detection queries
+
+---
+
+## Key Features
+- Failed login detection
+- Brute force attack detection
+- FTP activity monitoring dashboard
+- Alert system for suspicious activity
+
+---
+
+## Screenshots
+(Add images here after you upload them)
+
+---
+
+## Project Status
+🚧 In Progress
