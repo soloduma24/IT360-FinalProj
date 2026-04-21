@@ -1,0 +1,4 @@
+index=ftp_logs ("FILE UPLOAD" OR "FILE DOWNLOAD" OR "FILE DELETE")
+| rex "user=(?<user>\S+)"
+| rex "file=(?<file>\S+)"
+| stats count by user file
