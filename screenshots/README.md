@@ -1,22 +1,22 @@
 ## Screenshots
 
 ### Data Upload
-![Data Upload](screenshots/data-upload.png)
+![Data Upload](data-upload.png)
 
 ### Search Results
-![Search Results](screenshots/search-results.png)
+![Search Results](search-results.png)
 
 ### Failed Login Detection
-![Failed Logins](screenshots/failed-logins.png)
+![Failed Logins](failed-logins.png)
 
 ### Brute Force Detection
-![Brute Force Detection](screenshots/brute-force-detection.png)
+![Brute Force Detection](brute-force-detection.png)
 
 ### File Activity Monitoring
-![File Activity](screenshots/file-activity.png)
+![File Activity](file-activity.png)
 
 ### Splunk Dashboard
-![Splunk Dashboard](screenshots/splunk-dashboard.png)
+![Splunk Dashboard](splunk-dashboard.png)
 
 ### Alert Configuration
-![Alerts](screenshots/alerts.png)
+![Alerts](alerts.png)
