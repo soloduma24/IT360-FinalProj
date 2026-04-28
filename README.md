@@ -73,4 +73,5 @@ queries/ → Splunk detection queries
 ---
 
 ## Project Status
-🚧 In Progress
+Complete
+
