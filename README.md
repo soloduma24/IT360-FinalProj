@@ -32,16 +32,6 @@ The goal is to simulate a real-world cybersecurity monitoring system.
 
 ---
 
-## Project Timeline
-| Phase | Dates |
-|------|------|
-| Planning | Feb 10 – March 31 |
-| Implementation | March 31 – April 25 |
-| Testing | April 26 – April 30 |
-| Submission | May 1 |
-
----
-
 ## Repository Structure
 docs/ → project documentation
 screenshots/ → proof of work
