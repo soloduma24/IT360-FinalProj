@@ -33,10 +33,11 @@ The goal is to simulate a real-world cybersecurity monitoring system.
 ---
 
 ## Repository Structure
-docs/ → project documentation
-screenshots/ → proof of work
-logs/ → sample FTP logs
-queries/ → Splunk detection queries
+
+- `docs/` → project documentation
+- `screenshots/` → Splunk proof of work
+- `logs/` → sample FTP logs
+- `queries/` → Splunk detection queries
 
 ---
 
