@@ -73,6 +73,6 @@ The goal is to simulate a real-world cybersecurity monitoring system.
 ![Alerts](screenshots/alerts.png)
 ---
 
-## Project Status
-Complete
+## Final Presentation Video
 
+YouTube Demo Link: [FTP Log Analysis & Threat Detection Using Splunk](https://youtu.be/X6p_AWsTGBM)
